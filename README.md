@@ -75,7 +75,3 @@ npm test                # unit tests in the web extension host
 Press `F5` to launch an Extension Development Host.
 
 <br><br>
-
-<p align="center">
-  <img src="public/images/seen-letter-white.png" style="width: 100px;">
-</p>
